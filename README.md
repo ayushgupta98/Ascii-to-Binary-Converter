@@ -1,5 +1,4 @@
 # verilog
-This page has all the basic programmes to getting started with verilog.
 
 All programs listed here are tested on Model Sim and Xilinx ISE-14.7.
 
